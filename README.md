@@ -1,4 +1,5 @@
 # Succinct-differentiation-of-disparate-boosting-ensemble-learning-methods-for-prognostication-of-PCOS
 
 Prognostication of medical problems using the clinical data by leveraging the Machine Learning techniques with stellar precision is one of the most important real world challenges at the present time. Considering the medical problem of Polycystic Ovary Syndrome also known as PCOS is an emerging problem in women aged from 15 to 49. Diagnosing this disorder by using various Boosting Ensemble Methods is something we have presented in this paper. A detailed and compendious differentiation between Adaptive Boost, Gradient Boosting Machine, XGBoost and CatBoost with their respective performance metrics highlighting the hidden anomalies in the data and its effects on the result is something we have presented in this paper. Metrics like Confusion Matrix, Precision, Recall, F1 Score, FPR, RoC Curve and AUC have been used in this paper.
-
+# Keywords 
+* Ensemble Learning * Boosting Ensemble Methods * AdaBoost * GBM * XGBoost * CatBoost
